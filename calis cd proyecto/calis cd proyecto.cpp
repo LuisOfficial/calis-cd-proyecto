@@ -2,10 +2,20 @@
 //
 
 #include <iostream>
+#include <stdio.h>
+#include <conio.h>
+#include <stdlib.h>
 
-int main()
-{
-    std::cout << "Hello World!\n";
+#include <cstring>
+
+using namespace std;
+
+int main() {
+	cout << "\nLuis Garcia 21110323\n\n";
+
+
+	system("PAUSE");
+	return 0;
 }
 
 // Ejecutar programa: Ctrl + F5 o menú Depurar > Iniciar sin depurar
